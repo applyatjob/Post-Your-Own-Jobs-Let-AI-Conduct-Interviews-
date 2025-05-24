@@ -8,6 +8,7 @@ Benefits include:
 - No middleman or agency required
 - Instant visibility to thousands of job seekers
 - Easy editing and management of job listings
+
 But APPLYATJOB isn’t stopping there.
 AI-Powered Interviewing – The Future Is Here:
 To make the recruitment process even more efficient, APPLYATJOB has now introduced AI-based automated interviews. That’s right — once a candidate applies for a posted job, the platform’s built-in AI system will conduct the initial interview on behalf of the employer.
